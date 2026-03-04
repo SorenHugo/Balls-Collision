@@ -5,10 +5,9 @@
   [![Release](https://img.shields.io/github/v/release/SorenHugo/Balls-Collision?color=success)](https://github.com/SorenHugo/Balls-Collision/releases)
   [![Platform](https://img.shields.io/badge/Platform-Windows-blue?)]()
 
-  <img src="Screenshot.png" alt="Screenshot" width="384" height="294">
+  <img src="screenshot.png" alt="screenshot" width="384" height="294">
 </div>
 
 # Need
   1. Python 3.x
   2. Pygame
-
