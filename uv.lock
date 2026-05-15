@@ -13,15 +13,15 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "nuitka", specifier = ">=4.0.1" },
+    { name = "nuitka", specifier = ">=4.1" },
     { name = "pygame-ce", specifier = ">=2.5.6" },
 ]
 
 [[package]]
 name = "nuitka"
-version = "4.0.6"
+version = "4.1"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/0a/4b/4923ebb606657c26d53969e1d864c89f2f4a8eca7b6ab45bed66060c9cae/nuitka-4.0.6.tar.gz", hash = "sha256:9c14827058faf27414b6d28f5a27ef709fd6aa9b5f04af20e01b42889ac25b5c", size = 4421620, upload-time = "2026-03-18T14:29:00.275Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/53/db/b7a344ad688cd6d8547746869f904b105674ff529a24fa5a3d7bdd95560a/nuitka-4.1.tar.gz", hash = "sha256:99092d26f5f8d5264186924451f7df5872bf6a922297062ace2798ecec7cfa0f", size = 4543258, upload-time = "2026-05-11T07:16:35.483Z" }
 
 [[package]]
 name = "pygame-ce"
